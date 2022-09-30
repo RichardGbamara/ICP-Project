@@ -8,8 +8,9 @@ class Project {
     public static void main(String[] args) throws IOException {
         System.out.println("Hello Richard You are welcome to this week class discussion ");
         AirPorts obj = new AirPorts();
-        Airlines ob = new Airlines();
-        obj.trial();
+        data.populateAirlinesData(null);;
+        System.out.println();
+         obj.trial();
         // System.out.println(ob.readAirLineFile());
 
         // System.out.println(obj.readAirportsFile().size());
