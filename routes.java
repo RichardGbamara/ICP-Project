@@ -97,19 +97,5 @@ public class routes {
 
     }
 
-    /*
-     * 
-     * for (int i = 1; i < m; i++) {
-     * if (countriesList.toArray()[i].equals("Ghana")) {
-     * System.out.println(i);
-     * 
-     * }
-     * 
-     * for (String r : readRoutesFile()) {
-     * String[] route = r.split(",", 14);
-     * 
-     * }
-     * 
-     * }
-     */
+
 }
